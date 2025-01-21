@@ -1,5 +1,5 @@
 # ifcCreationTool
-### Motivation: Sample project for dad's work.
+### Sample Project for creating IFC components
 A sample project that generates an IFC file. The project can generate the following components:
 - A straight pipe
 - A 90 degree elbow
